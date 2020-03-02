@@ -84,23 +84,15 @@ public void at_homepage() {
 		} else {
 			System.out.println("Couldnt find model dropdown list"	);
 		}
-	throw new io.cucumber.java.PendingException();
-}
-
-@When("I click on the Advanced Search link")
-public void i_click_advancedsearch() {
-	WebDriver driver = new ChromeDriver();
-	WebElement advsearchElement = driver.findElement(By.xpath("//*[@id=\"mountNode\"]/div/div[1]/div/div/div/div[1]/div/div/div/div/div/div/div/div/div[1]/div[2]/span/span/div[3]/div/a"));
-
 		System.out.println("Clicking on advanced search... ");
 		advsearchElement.click();
 		//Thread.sleep(4000);
 		driver.close();
-    throw new io.cucumber.java.PendingException();
+	throw new io.cucumber.java.PendingException();
 }
 
 @And("And I enter in search criteria")
-public void open_browser2(){
+public void enter_search_criteria(){
 	//Write code here
 		System.setProperty("webdriver.chrome.driver", "C:\\JavaProjects\\Testing\\AdpTestDH\\NewChromedriver\\chromedriver.exe");
 		WebDriver driver2 = new ChromeDriver();
@@ -137,7 +129,6 @@ public void open_browser2(){
 	throw new io.cucumber.java.PendingException();
 }
 
-
 @Then("And I validate all are BMWs")
 public void validate_bms(){
 	//find all elements with xpath that has each result
@@ -168,6 +159,6 @@ public void validate_bms(){
 		//Thread.sleep(4000);
 		driver3.close();
 	throw new io.cucumber.java.PendingException();
-}
+	}
 
 }
