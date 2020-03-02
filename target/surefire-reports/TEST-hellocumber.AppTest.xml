@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="hellocumber.AppTest" time="0.037" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="hellocumber.AppTest" time="0.033" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\heneg\AppData\Local\Temp\surefire8420541642530235947\surefirebooter1324633155944270048.jar C:\Users\heneg\AppData\Local\Temp\surefire8420541642530235947 2020-03-01T16-24-18_925-jvmRun1 surefire1967230590155381788tmp surefire_07919926433449053718tmp"/>
+    <property name="sun.java.command" value="C:\Users\heneg\AppData\Local\Temp\surefire5741784769786465356\surefirebooter2961112291841662507.jar C:\Users\heneg\AppData\Local\Temp\surefire5741784769786465356 2020-03-02T08-44-01_599-jvmRun1 surefire1764273260098665932tmp surefire_05076487962977797500tmp"/>
     <property name="surefire.test.class.path" value="C:\JavaProjects\Testing\MavenTest\hellocucumber\target\test-classes;C:\JavaProjects\Testing\MavenTest\hellocucumber\target\classes;C:\Users\heneg\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\heneg\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\heneg\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\heneg\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\heneg\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\heneg\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\heneg\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\heneg\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\heneg\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\heneg\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\heneg\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\heneg\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\heneg\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\heneg\.m2\repository\info\cukes\cucumber-java\1.2.5\cucumber-java-1.2.5.jar;C:\Users\heneg\.m2\repository\io\cucumber\cucumber-core\1.2.6\cucumber-core-1.2.6.jar;C:\Users\heneg\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar;C:\Users\heneg\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;C:\Users\heneg\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar;C:\Users\heneg\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\heneg"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\heneg\AppData\Local\Temp\surefire8420541642530235947\surefirebooter1324633155944270048.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\heneg\AppData\Local\Temp\surefire5741784769786465356\surefirebooter2961112291841662507.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_221\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="hellocumber.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="hellocumber.AppTest" time="0.001"/>
 </testsuite>

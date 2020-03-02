@@ -39,5 +39,6 @@
 	<classpathentry kind="lib" path="C:/Users/heneg/Downloads/junit-4.13.jar"/>
 	<classpathentry kind="lib" path="C:/Users/heneg/Downloads/mockito-core-3.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/heneg/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/heneg/Downloads/selenium-java-3.141.59.zip"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
